@@ -6,9 +6,9 @@ A simple PowerShell script to produce a report of directory permissions.
 
 |Switch |Function                           |Default            |
 |-      |-                                  |-                  |
-|-p     | The path to run the report on.    |C:\                |
-|-o     | The path to the ouput file.       |C:\permissions.txt |
-|-i     | Users/Security groups to exclude. |none               |
+|`-p`   | The path to run the report on.    |C:\                |
+|`-o`   | The path to the ouput file.       |C:\permissions.txt |
+|`-i`   | Users/Security groups to exclude. |none               |
 
 ### Usage example
 
